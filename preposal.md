@@ -2,12 +2,12 @@
 
 ## What idea(s) do you have for your final project?
 
-TODO
+Creating a Game 
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
-TODO
+Luke Broomall
 
 ## Do you have any questions of your own?
 
-TODO
+No I don't
