@@ -43,7 +43,7 @@ for key in powerup_images:
 WIDTH = 800
 HEIGHT = 600
 screen = pygame.display.set_mode([WIDTH, HEIGHT])
-pygame.display.set_caption("Breakout Clone with Powerups + Levels")
+pygame.display.set_caption("Breakout Game")
 background = pygame.image.load("Breakout game background image.png")
 background = pygame.transform.scale(background, (WIDTH, HEIGHT))
 
